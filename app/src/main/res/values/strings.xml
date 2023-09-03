@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="welcome">Olá seja bem-vindo ao Jokenpô</string>
+    <string name="start">Iniciar Jogo</string>
+    <string name="player_holderText">Jogador 1</string>
+    <string name="result_holderText">Resultado</string>
+    <string name="select_title">Selecionar Jogada</string>
+    <string name="restart">Reiniciar</string>
+    <string name="result_Title">Resultado</string>
+    <string name="result_Holder">O jogador xxx ganhou</string>
+    <string-array name="play_options">
+        <item>Pedra</item>
+        <item>Papel</item>
+        <item>Tesoura</item>
+    </string-array>
+</resources>

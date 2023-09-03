@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:id="@+id/player_option"
+           android:title="@string/player_holderText"
+           android:icon="@drawable/ic_play"
+         />
+     <item android:id="@+id/result_option"
+         android:title="@string/result_holderText"
+         android:icon="@drawable/ic_result"
+         />
+</menu>
