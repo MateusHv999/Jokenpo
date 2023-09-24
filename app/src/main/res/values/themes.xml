@@ -16,5 +16,6 @@
     <style name="Theme.Jokenpo.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:textColor">@color/black</item>
     </style>
 </resources>
